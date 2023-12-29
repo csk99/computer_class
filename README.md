@@ -1,7 +1,7 @@
-# computer_class
+# Multinomial Logistic Regression
 This repo is my solution to a computer class exam.
 
-Here we're training a logistic regression alogorithm using our own implementation of the following:
+Here we're training a multinomial logistic regression alogorithm from scratched using our own implementation of the following:
 * Gradient Descent & Stochastic Gradient Descent
 * Softmax logistic regression
 
